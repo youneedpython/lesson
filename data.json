@@ -4,7 +4,7 @@
     "itemName": "새우깡",
     "price": 900,
     "stockCount": 100,
-    "thumbnailImg": "asset/img/1/thumb.jpg",
+    "thumbnailImg": "asset/img/1/thumb.png",
     "option": [],
     "discountRate": 0,
     "detailInfoImage": [
@@ -20,7 +20,7 @@
     "itemName": "오징어집",
     "price": 4900,
     "stockCount": 100,
-    "thumbnailImg": "asset/img/1/thumb.jpg",
+    "thumbnailImg": "asset/img/1/thumb.png",
     "option": [],
     "discountRate": 0,
     "detailInfoImage": [
@@ -36,7 +36,7 @@
     "itemName": "쌀로별",
     "price": 1600,
     "stockCount": 100,
-    "thumbnailImg": "asset/img/1/thumb.jpg",
+    "thumbnailImg": "asset/img/1/thumb.png",
     "option": [],
     "discountRate": 0,
     "detailInfoImage": [
@@ -52,7 +52,7 @@
     "itemName": "조청유과",
     "price": 1300,
     "stockCount": 100,
-    "thumbnailImg": "asset/img/1/thumb.jpg",
+    "thumbnailImg": "asset/img/1/thumb.png",
     "option": [],
     "discountRate": 0,
     "detailInfoImage": [
