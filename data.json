@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "itemName": "새우깡",
+    "price": 900,
+    "stockCount": 100,
+    "thumbnailImg": "asset/img/1/thumb.jpg",
+    "option": [],
+    "discountRate": 0,
+    "detailInfoImage": [
+      "asset/detail/2/detail1.png",
+      "asset/detail/2/detail2.png"
+    ],
+    "viewCount": 0,
+    "pubDate": "2023-06-01",
+    "modDate": "2022-06-28"
+  },
+  {
+    "id": 2,
+    "itemName": "오징어집",
+    "price": 4900,
+    "stockCount": 100,
+    "thumbnailImg": "asset/img/1/thumb.jpg",
+    "option": [],
+    "discountRate": 0,
+    "detailInfoImage": [
+      "asset/detail/2/detail1.png",
+      "asset/detail/2/detail2.png"
+    ],
+    "viewCount": 0,
+    "pubDate": "2023-06-01",
+    "modDate": "2022-06-28"
+  },
+  {
+    "id": 3,
+    "itemName": "쌀로별",
+    "price": 1600,
+    "stockCount": 100,
+    "thumbnailImg": "asset/img/1/thumb.jpg",
+    "option": [],
+    "discountRate": 0,
+    "detailInfoImage": [
+      "asset/detail/2/detail1.png",
+      "asset/detail/2/detail2.png"
+    ],
+    "viewCount": 0,
+    "pubDate": "2023-06-01",
+    "modDate": "2022-06-28"
+  },
+  {
+    "id": 4,
+    "itemName": "조청유과",
+    "price": 1300,
+    "stockCount": 100,
+    "thumbnailImg": "asset/img/1/thumb.jpg",
+    "option": [],
+    "discountRate": 0,
+    "detailInfoImage": [
+      "asset/detail/2/detail1.png",
+      "asset/detail/2/detail2.png"
+    ],
+    "viewCount": 0,
+    "pubDate": "2023-06-01",
+    "modDate": "2022-06-28"
+  }
+]
